@@ -1,0 +1,6 @@
+D:\2.FormCalismalar\HostelData\HostelData.Core\bin\Debug\HostelData.Core.dll
+D:\2.FormCalismalar\HostelData\HostelData.Core\bin\Debug\HostelData.Core.pdb
+D:\2.FormCalismalar\HostelData\HostelData.Core\obj\Debug\HostelData.Core.csprojAssemblyReference.cache
+D:\2.FormCalismalar\HostelData\HostelData.Core\obj\Debug\HostelData.Core.csproj.CoreCompileInputs.cache
+D:\2.FormCalismalar\HostelData\HostelData.Core\obj\Debug\HostelData.Core.dll
+D:\2.FormCalismalar\HostelData\HostelData.Core\obj\Debug\HostelData.Core.pdb

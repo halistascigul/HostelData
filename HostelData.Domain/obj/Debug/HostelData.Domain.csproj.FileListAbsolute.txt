@@ -1,0 +1,9 @@
+D:\2.FormCalismalar\HostelData\HostelData.Domain\bin\Debug\HostelData.Domain.dll
+D:\2.FormCalismalar\HostelData\HostelData.Domain\bin\Debug\HostelData.Domain.pdb
+D:\2.FormCalismalar\HostelData\HostelData.Domain\bin\Debug\HostelData.Core.dll
+D:\2.FormCalismalar\HostelData\HostelData.Domain\bin\Debug\HostelData.Core.pdb
+D:\2.FormCalismalar\HostelData\HostelData.Domain\obj\Debug\HostelData.Domain.csprojAssemblyReference.cache
+D:\2.FormCalismalar\HostelData\HostelData.Domain\obj\Debug\HostelData.Domain.csproj.CoreCompileInputs.cache
+D:\2.FormCalismalar\HostelData\HostelData.Domain\obj\Debug\HostelData.Domain.csproj.CopyComplete
+D:\2.FormCalismalar\HostelData\HostelData.Domain\obj\Debug\HostelData.Domain.dll
+D:\2.FormCalismalar\HostelData\HostelData.Domain\obj\Debug\HostelData.Domain.pdb

@@ -1,0 +1,16 @@
+D:\2.FormCalismalar\HostelData\HostelData.Business\bin\Debug\HostelData.Business.dll
+D:\2.FormCalismalar\HostelData\HostelData.Business\bin\Debug\HostelData.Business.pdb
+D:\2.FormCalismalar\HostelData\HostelData.Business\obj\Debug\HostelData.Business.csprojAssemblyReference.cache
+D:\2.FormCalismalar\HostelData\HostelData.Business\obj\Debug\HostelData.Business.csproj.CoreCompileInputs.cache
+D:\2.FormCalismalar\HostelData\HostelData.Business\obj\Debug\HostelData.Business.dll
+D:\2.FormCalismalar\HostelData\HostelData.Business\obj\Debug\HostelData.Business.pdb
+D:\2.FormCalismalar\HostelData\HostelData.Business\bin\Debug\HostelData.Core.dll
+D:\2.FormCalismalar\HostelData\HostelData.Business\bin\Debug\HostelData.DataAccess.dll
+D:\2.FormCalismalar\HostelData\HostelData.Business\bin\Debug\HostelData.Domain.dll
+D:\2.FormCalismalar\HostelData\HostelData.Business\bin\Debug\HostelData.Core.pdb
+D:\2.FormCalismalar\HostelData\HostelData.Business\bin\Debug\HostelData.DataAccess.pdb
+D:\2.FormCalismalar\HostelData\HostelData.Business\bin\Debug\HostelData.Domain.pdb
+D:\2.FormCalismalar\HostelData\HostelData.Business\obj\Debug\HostelData.Business.csproj.CopyComplete
+D:\2.FormCalismalar\HostelData\HostelData.Business\bin\Debug\EntityFramework.dll
+D:\2.FormCalismalar\HostelData\HostelData.Business\bin\Debug\HostelData.DataAccess.dll.config
+D:\2.FormCalismalar\HostelData\HostelData.Business\bin\Debug\EntityFramework.xml
